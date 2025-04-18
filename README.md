@@ -1,17 +1,17 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm N Navin Subramanian</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navinsubramanian&label=Profile%20views&color=0e75b6&style=flat" alt="navinsubramanian" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Freelancing Projects**
 
-- 🌱 I’m currently learning **Node, Angular**
+- 🌱 I’m currently learning **Typescript**
 
-- 📫 How to reach me **nnavinsubramanian.cse2021@citchennai.net**
+- 📫 How to reach me **nnavinsubramanian@gmail.com**
 
 - ⚡ Fun fact **I am good at out of the box thinking**
 
